@@ -23,6 +23,40 @@
       <!-- header -->
     <?php include 'includes/header.php' ?>
 
+    <section>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3">
+            <div class="size">
+              <p>Size</p>
+              <ul>
+                <li><input type="checkbox">6</input></li>
+                <li><input type="checkbox">8</input></li>
+                <li><input type="checkbox">10</input></li>
+                <li><input type="checkbox">12</input></li>
+                <li><input type="checkbox">14</input></li>
+                <li><input type="checkbox">16</input></li>
+                <li><input type="checkbox">S</input></li>
+                <li><input type="checkbox">XS</input></li>
+                <li><input type="checkbox">XXS</input></li>
+                <li><input type="checkbox">M</input></li>
+                <li><input type="checkbox">L</input></li>
+                <li><input type="checkbox">XL</input></li>
+                <li><input type="checkbox">XXL</input></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-9">
+            <div class="col-md-6">
+
+            </div>
+            <div class="col-md-6">
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <!-- footer -->
     <?php include 'includes/footer.php'; ?>

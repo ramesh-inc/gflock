@@ -28,8 +28,16 @@ ul{
   float:left;
   padding:10px 15px;7
 }
+.nav li a{
+  color:#333 !important;
+}
 .nav li:last-child{
-
+  background: #333;
+  border: #333 solid 1px;
+  border-radius: 10px;
+}
+.nav li:last-child a{
+  color:white !important;
 }
 .sticky-text{
   display: flex;
@@ -78,6 +86,27 @@ ul{
     text-decoration: none;
     transform: scale(1.2);
 }
+/***************************
+          Items Side Bar
+***************************/
+.size ul{
+  list-style-type: none;
+}
+.size p{
+  font-size: 18px;
+  font-weight: 700;
+}
+.size ul>li{
+  padding-left: 10px;
+  padding-top: 5px;
+}
+.size ul>li>input{
+  margin-right: 5px;
+}
+/***************************
+          Item Box
+***************************/
+
 /***************************
           Footer
 ***************************/

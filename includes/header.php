@@ -6,13 +6,13 @@
       </div>
       <div class="col-md-10 col-sm-10">
         <ul class="nav">
-          <a href="party.php"><li>Party</li></a>
-          <a href="linen.php"><li>Linen</li></a>
-          <a href="workwear.php"><li>Workwear</li></a>
-          <a href="women.php"><li>Women</li></a>
-          <a href="men.php"><li>Men</li></a>
-          <a href=""><li>Sales & Offers</li></a>
-          <a href=""><li>This Week</li></a>
+          <li><a href="party.php">Party</a></li>
+          <li><a href="linen.php">Linen</a></li>
+          <li><a href="workwear.php">Workwear</a></li>
+          <li><a href="women.php">Women</a></li>
+          <li><a href="men.php">Men</a></li>
+          <li><a href="">Sales & Offers</a></li>
+          <li><a href="">This Week</a></li>
         </ul>
       </div>
     </div>
