@@ -6,6 +6,6 @@ $(document).ready(function(){
    margin:10,
    dots:false,
    nav:true,
-   items:1
+   items:3
  });
 });

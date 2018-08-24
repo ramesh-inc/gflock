@@ -14,8 +14,8 @@
     <link rel="stylesheet" href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.theme.default.min.css">
 
     <!-- custom script and css import -->
-    <script type="text/javascript" src="js/main/my-style.js"></script>
-    <link rel="stylesheet" href="css/main/my-style.css">
+    <script type="text/javascript" src="js/main/style.js"></script>
+    <link rel="stylesheet" href="css/main/style.css">
     <title></title>
   </head>
   <body>
