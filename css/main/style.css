@@ -104,13 +104,31 @@ ul{
   margin-right: 5px;
 }
 /***************************
-          Item Box
+        Our Brand
 ***************************/
-
+.clasic_img{
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  object-position: top;
+}
+.headings{
+  color:#4d6fa1;
+  position: relative;
+  margin-bottom: 25px;
+}
+.headings:before{
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left:0;
+  width:40%;
+  border-bottom: 1px solid #4d6fa1;
+}
 /***************************
           Footer
 ***************************/
-footer, .content-columns{
+footer, .content-rows{
   padding:40px 0;
 }
 .theme-btn{
