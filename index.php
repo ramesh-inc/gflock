@@ -76,6 +76,71 @@
               <img class="clasic_img" src="images/concept.jpg" alt="">
             </div>
         </div>
+
+        <div class="row supportive-row">
+          <div class="col-md-4">
+            <div class="cart-box">
+              <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+                <div class="flipper">
+                  <div class="front">
+                    <!-- front content -->
+                    <div class="box-icon">
+                        <i class="fa fa-diamond" aria-hidden="true"></i>
+                    </div>
+                    <div>
+                      <p class="box-title">Safe Payment</p>
+                    </div>
+                  </div>
+                  <div class="back">
+                    <!-- back content -->
+                    <p class="box-desc">We accept any Visa or Master cards and you could do payments at checkout with confidence.
+                                        Don't have a card, no problem. You could use our cash on delivery option to pay cash at collection.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+            	<div class="flipper">
+            		<div class="front">
+            			<!-- front content -->
+                  <div class="box-icon">
+                      <i class="fa fa-life-ring" aria-hidden="true"></i>
+                  </div>
+                  <div>
+                    <p class="box-title">Online Support</p>
+                  </div>
+            		</div>
+            		<div class="back">
+            			<!-- back content -->
+                  <p class="box-desc">Our dedicated  team at GFLOCK always here to help, You could contact us via email,
+                     telephone or even via our Facebook page.</p>
+            		</div>
+            	</div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+            	<div class="flipper">
+            		<div class="front">
+            			<!-- front content -->
+                  <div class="box-icon">
+                      <i class="fa fa-truck" aria-hidden="true"></i>
+                  </div>
+                  <div>
+                    <p class="box-title">Free Shipping</p>
+                  </div>
+            		</div>
+            		<div class="back">
+            			<!-- back content -->
+                  <p class="box-desc">Island wide free delivery* on orders Over Rs. 4500/- *Processing fee may apply for
+                    cash on delivery orders.</p>
+            		</div>
+            	</div>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
 
