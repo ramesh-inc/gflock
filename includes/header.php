@@ -12,7 +12,9 @@
           <li><a href="women.php">Women</a></li>
           <li><a href="men.php">Men</a></li>
           <li><a href="">Sales & Offers</a></li>
+		  <li><a href="signin.php">Sign In</a></li>
           <li><a href="">This Week</a></li>
+		  
         </ul>
       </div>
     </div>
