@@ -1,0 +1,128 @@
+.shopping_cart_header {
+    margin-left: 30px;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+
+}
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.img-thumbnail {
+    height:250px ;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-right: 30px;
+    vertical-align: top;
+    margin-top: 100px;
+    border: 30px;
+    border: 30px;
+    display: block;
+}
+
+.item_name {
+    margin-left: 32px;
+    margin-top: 15px;
+}
+
+.item_price {
+    margin-left: 32px;
+    margin-top: 15px;
+}
+
+.item_b {
+    border: none;
+    background-color: black;
+    color: white;
+    height: 35px;
+    width: 95px;
+    margin-left: 28px;
+    margin-top: 15px;
+}
+
+.item_b:hover {
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,0.24), 0 5px 5px 0 rgba(0,0,0,0.19);
+}
+
+.price_name {
+    font-weight: normal;
+    font-family: "Berlin Sans FB";
+    font-size: 20px;
+}
+
+.price_price {
+    font-weight: normal;
+    font-family: "Berlin Sans FB";
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+.price_section {
+    align-content: center;
+    margin-left: 750px;
+    margin-top: 100px;
+}
+
+.code_input {
+    margin-left: 750px;
+    margin-top: 15px;
+}
+
+.input {
+    width: 380px;
+    height: 46px;
+    border-style: groove;
+    border-radius: 5px;
+    align-content: center;
+    margin-left: -80px;
+    margin-bottom: 20px;
+    text-indent: 80px;
+}
+
+input:hover {
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,0.24), 0 5px 5px 0 rgba(0,0,0,0.19);
+}
+
+.input::placeholder {
+    opacity: 0.4%;
+    word-spacing: 2px;
+    text-indent: 80px;
+
+}
+
+.ssyl_line {
+    margin-left: 656px;
+    margin-top: 20px;
+}
+
+
+.ssyl_name {
+    display: block;
+    margin-left: 30px;
+    padding-top: 10px;
+}
